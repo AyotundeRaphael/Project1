@@ -12,3 +12,6 @@
 * [Open SSH key management](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
 
 * [Get started with Open SSH key](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
+
+* [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet)
+
