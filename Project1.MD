@@ -8,6 +8,8 @@
 
 ![Apache Status](./images/imagepjt1.PNG)
 
+![Apache Status GUI](./images/image2pjt1.PNG)
+
 
 * [Open SSH key management](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
 
